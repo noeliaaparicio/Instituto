@@ -1,0 +1,24 @@
+.navbar-brand{
+  font-family: 'Italianno', cursive;
+  font-size:xx-large;
+
+}
+
+.container{
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.ubicacion{
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+#header {
+  background-color:crimson;
+  min-height: 20px;
+  color: white;
+  
+}
+
+.footer{
+  background-color: tomato;
+}
